@@ -1,0 +1,14 @@
+{
+  "suppliers": [
+    {
+      "id": "SUP-001",
+      "name": "Random 1",
+      "contact_email": "random1@gmail.com"
+    },
+    {
+      "id": "SUP-002",
+      "name": "Random 2",
+      "contact_email": "random2@gmail.com"
+    }
+  ]
+}
