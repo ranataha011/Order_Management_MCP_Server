@@ -201,4 +201,4 @@ The suite has 24 tests across six files, one per tool. They call the tool functi
 
 ## Author
 
-**Shahram Shafiq** - [GitHub](https://github.com/shahramshafiq) | [LinkedIn](https://www.linkedin.com/in/shahramshafiq/)
+**Rana Taha** - [GitHub](https://github.com/ranataha011)
